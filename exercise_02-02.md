@@ -1,0 +1,1 @@
+The loop never executes, as 0 evaluates to false.
